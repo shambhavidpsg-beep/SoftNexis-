@@ -68,3 +68,28 @@ A professionally designed and interactive workshop landing page developed for a 
 
 ## Project Objective
 To develop an interactive and visually appealing workshop landing page while enhancing frontend development skills through dynamic UI implementation, responsive design, user interaction handling, theme customization, and creating a real-world event registration experience.
+
+# Task 4: Interactive Web Development Project
+A professionally designed and interactive web page developed as part of the SoftNexis Web Development Internship. This project focuses on creating an engaging user experience by implementing modern frontend design concepts, interactive components, and responsive layouts.
+
+## Features
+- Semantic HTML5 structure
+- Responsive webpage layout
+- Interactive user interface elements
+- Modern and clean UI design
+- Custom CSS styling and animations
+- Smooth transitions and visual effects
+- Responsive design for different screen sizes
+- User-friendly navigation experience
+- Organized content sections
+- Professional frontend implementation
+
+## Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+- Google Fonts
+- Responsive Web Design Principles
+
+## Project Objective
+To develop a visually appealing and interactive webpage while strengthening frontend development skills through responsive design implementation, UI/UX improvements, interactive elements, and creating a real-world web development project experience during the SoftNexis internship.
